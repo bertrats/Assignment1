@@ -1,0 +1,22 @@
+﻿body
+{
+    background-color: salmon;
+    color: white;
+    text-align: center;
+}
+header{
+    background-color:black;
+    height: 80px;
+    width: 100%;
+    font-size: 48px;;
+}
+footer{
+    background-color: black;
+    height: 25px;
+}
+.maincontent{
+    width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+
+}
